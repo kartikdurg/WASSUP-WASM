@@ -1,0 +1,7 @@
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\bin\Debug\WASSUP-WASM.exe.config
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\bin\Debug\WASSUP-WASM.exe
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\bin\Debug\WASSUP-WASM.pdb
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\obj\Debug\WASSUP-WASM.csprojAssemblyReference.cache
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\obj\Debug\WASSUP-WASM.csproj.CoreCompileInputs.cache
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\obj\Debug\WASSUP-WASM.exe
+C:\Users\karti\source\repos\WASSUP-WASM\WASSUP-WASM\obj\Debug\WASSUP-WASM.pdb
